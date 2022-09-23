@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1663830731 source:/home/andreyka/program/ARHITECT/Arhitect/BubbleSort.cpp
+	"Header.h"
+
+1663830731 /home/andreyka/program/ARHITECT/Arhitect/Header.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1663830731 source:/home/andreyka/program/ARHITECT/Arhitect/main.cpp
+	<iostream>
+	<time.h>
+	"Header.h"
+
+1663830742 source:/home/andreyka/program/ARHITECT/Arhitect/SelectSort.cpp
+	"Header.h"
+
+1663830931 source:/home/andreyka/program/ARHITECT/Arhitect/MergeSort.cpp
+	"Header.h"
+
